@@ -114,5 +114,3 @@
 - **External Data Comparison:**
   - Findings align with national road safety statistics, indicating that driver behavior, road conditions, and traffic laws play crucial roles in accident prevention.
 
-This document provides insights into key patterns and trends in road accident data, highlighting critical areas for traffic safety improvements.
-
